@@ -6,7 +6,7 @@
 - `ship_names_cn.json` — 舰船中文名映射（index → 中文），来自 LocalizedKorabli 中文本地化
 - `version.json` — 数据版本信息（更新时间、舰船数量等）
 
-客户端通过以下原始链接获取更新：
+客户端通过以下原始链接获取更新（国内网络不可达时自动回退到 GitHub 代理镜像）：
 
 ```
 https://raw.githubusercontent.com/zfxsquare/korabli-mod-data/main/ships_db.json
